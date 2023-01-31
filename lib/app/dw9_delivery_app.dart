@@ -21,14 +21,3 @@ class Dw9DeliveryApp extends StatelessWidget {
     );
   }
 }
-
-// return MultiProvider(
-//       providers: [],
-//       child: MaterialApp(
-//         title: 'Delivery App',
-//         theme: ThemeConfig.theme,
-//         routes: {
-//           '/': (context) => const SplashPage(),
-//         },
-//       ),
-//     );"
