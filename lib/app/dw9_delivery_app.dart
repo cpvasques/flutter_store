@@ -11,7 +11,7 @@ class Dw9DeliveryApp extends StatelessWidget {
       title: 'Delivery App',
       theme: ThemeConfig.theme,
       routes: {
-        '/': (context) => SplashPage(),
+        '/': (context) => const SplashPage(),
       },
     );
   }
