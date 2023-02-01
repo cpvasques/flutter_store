@@ -1,0 +1,5 @@
+Para instalar o asset:
+dart pub global activate json_rest_server
+
+Para rodar:
+json_rest_server run
